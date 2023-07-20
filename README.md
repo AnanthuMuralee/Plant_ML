@@ -1,2 +1,4 @@
 # Plant_ML
-Classification of two different plants using image processing convolution.
+
+Project based on machine learning and image processing.
+In this project differentiation  of two plants is done using convolution.
