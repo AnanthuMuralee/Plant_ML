@@ -1,5 +1,5 @@
 # Plant_ML
 
 Project based on machine learning and image processing.
-In this project differentiation  of two plants is done using convolution technique.
-Images of two different plants vere collected and a database was created, which was then used to teach the program.
+In this project helps to distinguish weeds from cultivated crops using convolution technique.
+Images of different plants were collected and a database was created, which was then used to teach the program.
